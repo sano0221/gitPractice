@@ -1,2 +1,4 @@
 # Author
-- sanodaichi
+
+- Sano Daichi
+- Nakashima Yuta
